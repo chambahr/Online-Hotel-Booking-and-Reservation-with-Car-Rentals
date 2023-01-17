@@ -19,7 +19,7 @@ const Home = () => {
                 <PropertyList />
                 <h1 className="homeTitle">Homes guests love</h1>
                 <FeaturedProperties />
-                {/* <MailList /> */}
+                <MailList />
                 <Footer />
             </div>
         </div>
