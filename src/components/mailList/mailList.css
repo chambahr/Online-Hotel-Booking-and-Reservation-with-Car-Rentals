@@ -5,9 +5,11 @@
     color: white;
     display: flex;
     flex-direction: column;
+    justify-content: center;
     align-items: center;
     gap: 20px;
     padding: 50px;
+    position: relative;
 }
 
 .mailInputContainer>input{
